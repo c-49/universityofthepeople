@@ -1,0 +1,46 @@
+BRAINSTORMING NOTES - Social Media & Mental Health
+
+TOPIC: Social Media Impact on College Student Mental Health
+==========================================================
+
+INITIAL IDEAS (Free Writing):
+- Everyone uses social media constantly
+- Instagram, TikTok, Snapchat most popular
+- Students always on their phones
+- Comparison with others online
+- Anxiety seems higher lately
+- Sleep affected by late-night scrolling
+- FOMO - fear of missing out
+- Likes and followers matter too much?
+
+MIND MAP:
+                    SOCIAL MEDIA
+                        |
+        ________________|________________
+        |               |               |
+   PLATFORMS        EFFECTS         TIME SPENT
+   Instagram        Anxiety         3+ hours/day?
+   TikTok           Depression      Late night use
+   Snapchat         Sleep issues    Study time loss
+   Twitter/X        FOMO            
+
+QUESTIONS TO EXPLORE:
+• How many hours do college students spend on social media daily?
+• Which platform affects mental health most?
+• What specific anxiety symptoms are linked to usage?
+• Are there any positive mental health benefits?
+• Does social media use affect academic performance?
+• Do students realize the impact on their mental health?
+
+POTENTIAL RESEARCH FOCUS:
+→ Does increased daily social media usage correlate with higher anxiety levels?
+
+VARIABLES TO CONSIDER:
+- Daily usage hours (independent variable)
+- Anxiety levels (dependent variable) 
+- Type of platform used
+- Student demographics (age, year in school)
+- Time of day usage patterns
+
+POSSIBLE HYPOTHESIS:
+Students who spend 3+ hours daily on social media will have higher anxiety scores than students who spend less than 1 hour daily.
