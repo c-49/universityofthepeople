@@ -1,10 +1,13 @@
-This assignment aims to assess your ability to understand the relationship between beliefs and health-related behavior. It will also assess your ability to recognize how your own personal beliefs have shaped your perception of health over time.
-
-Assignment:
-
-Imagine you are participating in a community health workshop that includes participants from various cultural backgrounds and occupation. The workshop aims to explore the intricate relationship between understanding beliefs, health-related behaviors, and their predictability.
-
-As a participant, discuss the role of beliefs in health-related behavior. How does it contribute to health-related challenges?
-Make sure to reflect on your personal beliefs or those prevalent in your community. How have these belief shaped your perception of health over the years?
-In what ways this newly acquired understanding will now influence your beliefs and outcomes related to health?
-Your Discussion should be a minimum of 200 words in length and not more than 300 words. Please include a word count. Following the APA standard, use references and in-text citations for the textbook and any other sources. 
+The Role of Beliefs in Health-Related Behavior
+Beliefs play a powerful role in shaping our health behaviors and can create significant health challenges. When people believe certain health practices are ineffective or unnecessary, they often avoid beneficial behaviors like regular exercise or preventive checkups (Ogden, 2019). These beliefs directly influence our actions and can lead to poor health outcomes.
+Personal and Community Beliefs
+Growing up in my community, there was a strong belief that mental health issues were signs of personal weakness rather than legitimate medical conditions. This belief shaped my early perception that seeking help for stress or anxiety was unnecessary. Many people in my community preferred to "tough it out" rather than address psychological concerns, viewing them as temporary problems that would resolve on their own (Rokach, 2019).
+This mindset prevented many from seeking professional help when needed, leading to prolonged suffering and worsened mental health conditions over time.
+New Understanding and Future Influence
+Learning about the psychological factors that affect health has changed my perspective significantly. I now understand that beliefs, stress, and social support all directly impact physical health and disease development (Wright et al., 2019). This knowledge will help me recognize when my beliefs might be preventing healthy behaviors and encourage me to seek evidence-based approaches to health maintenance.
+Moving forward, I plan to challenge health-related beliefs with scientific evidence and remain open to changing my behaviors based on research rather than cultural assumptions.
+Word Count: 247
+References
+Ogden, J. (2019). The psychology of health and illness: An open access course. McGraw Hill.
+Rokach, A. (2019). Health, illness, and the psychological factors affecting them. The Journal of Psychology, 153(1), 1-5. https://doi.org/10.1080/00223980.2018.1548202
+Wright, C.D., Tiani, A.G., Billingsley, A.L., Steinman, S.A., Larkin, K.T., & McNeil, D.W (2019). A framework for understanding the role of psychological processes in disease development, maintenance, and treatment: The 3P-disease model. Frontiers in Psychology, 10. https://doi.org/10.3389/fpsyg.2019.02498
