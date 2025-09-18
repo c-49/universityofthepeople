@@ -1,0 +1,34 @@
+This assignment aims to assess your ability to apply theoretical frameworks, to design a population-level intervention. Furthermore, it seeks to assess your understanding of evaluating various strategies that are impactful in inducing significant changes in behavior.
+
+Read the following and proceed with the assignment.
+
+1. The behaviour change wheel: A new method for characterising and designing behaviour change interventions.
+https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42
+
+2. Behaviour change communication in health promotion: Appropriate practices and promising approaches.
+https://internationaljournalcorner.com/index.php/ijird_ojs/article/view/137514
+
+3. Read Unit 3: Behavior Change, Pg. 29- 36 from the textbook The psychology of health and Illness: An open access source.
+
+Imagine you are a public health professional tasked with designing a population-level intervention to reduce the prevalence of any one unhealthy behavior, like smoking, obesity, insufficient physical activity, or others, in your community. 
+
+You have learned about the COM-B system, the Behavior Change Wheel, and theories Informing Behavior Change in this unit, and you want to use any one of these to develop your intervention.
+
+Start by describing the framework or theoretical approach that you believe has the greatest potential to drive positive and lasting behavior change in health-related behaviors and intend to use it in planning your intervention. Elaborate why this theory or model appeals to you. 
+Focus on any one unhealthy behavior such as smoking or obesity to explain how you would employ the chosen theory or model to develop an effective intervention.
+Additionally, consider discussing various strategies like mass media campaigns, health campaigns, or financial incentives to promote public health outcomes. Which strategy would you prioritize to drive meaningful behavior change and why?
+
+Instructions for submission
+
+The response should be a minimum of 500 words and not more than 750 words not including the reference list. Please include a word count.
+Follow the APA standard, use references and in-text citations if you use ideas from the readings or other sources. Refer to the UoPeople APA Tutorials in the LRC for help with APA citations. 
+Follow proper grammar and sentence structure. Use proper delivery to convey your message. Edit for spelling and grammar errors.
+References
+
+Michie, S., Van Stralen, M. M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. Implementation science, 6, 42. https://doi.org/10.1186/1748-5908-6-42
+
+Ngigi, S., & Busolo, D. N. (2018). Behaviour change communication in health promotion: Appropriate practices and promising approaches. International Journal of Innovative Research and Development, 7(9), 84-93. https://doi.org/10.24940/ijird/2018/v7/i9/sep18027
+
+Ogden, J. (2019). The psychology of health and Illness: An open access source. McGraw Hill. The psychology of health and illness: An open access course [PDF], licensed under CC BY 4.0
+
+
