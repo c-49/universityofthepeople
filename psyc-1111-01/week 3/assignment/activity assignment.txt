@@ -1,34 +1,24 @@
-This assignment aims to assess your ability to apply theoretical frameworks, to design a population-level intervention. Furthermore, it seeks to assess your understanding of evaluating various strategies that are impactful in inducing significant changes in behavior.
-
-Read the following and proceed with the assignment.
-
-1. The behaviour change wheel: A new method for characterising and designing behaviour change interventions.
-https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42
-
-2. Behaviour change communication in health promotion: Appropriate practices and promising approaches.
-https://internationaljournalcorner.com/index.php/ijird_ojs/article/view/137514
-
-3. Read Unit 3: Behavior Change, Pg. 29- 36 from the textbook The psychology of health and Illness: An open access source.
-
-Imagine you are a public health professional tasked with designing a population-level intervention to reduce the prevalence of any one unhealthy behavior, like smoking, obesity, insufficient physical activity, or others, in your community. 
-
-You have learned about the COM-B system, the Behavior Change Wheel, and theories Informing Behavior Change in this unit, and you want to use any one of these to develop your intervention.
-
-Start by describing the framework or theoretical approach that you believe has the greatest potential to drive positive and lasting behavior change in health-related behaviors and intend to use it in planning your intervention. Elaborate why this theory or model appeals to you. 
-Focus on any one unhealthy behavior such as smoking or obesity to explain how you would employ the chosen theory or model to develop an effective intervention.
-Additionally, consider discussing various strategies like mass media campaigns, health campaigns, or financial incentives to promote public health outcomes. Which strategy would you prioritize to drive meaningful behavior change and why?
-
-Instructions for submission
-
-The response should be a minimum of 500 words and not more than 750 words not including the reference list. Please include a word count.
-Follow the APA standard, use references and in-text citations if you use ideas from the readings or other sources. Refer to the UoPeople APA Tutorials in the LRC for help with APA citations. 
-Follow proper grammar and sentence structure. Use proper delivery to convey your message. Edit for spelling and grammar errors.
+PSYC 1111-01 Week 3 Assignment
+Theoretical Framework Selection: The COM-B Model
+The COM-B model represents the most effective framework for driving lasting behavior change in health-related behaviors. This model appeals to me because it provides a clear, practical structure that addresses the three essential components needed for any behavior to occur: Capability, Opportunity, and Motivation (Michie et al., 2011). Unlike other models that focus on individual beliefs alone, COM-B recognizes that behavior change requires both internal factors and external environmental support.
+The model's strength lies in its comprehensive approach that examines whether people have the physical and psychological capability to perform a behavior, whether their environment provides opportunities for change, and whether they possess the motivation to act (Ogden, 2019). This framework is particularly valuable because it moves beyond simply educating people about health risks and instead addresses the practical barriers that prevent behavior change in real-world settings.
+Application to Smoking Cessation
+For this intervention, I will focus on reducing smoking prevalence in young adults aged 18-25 in our community. Using the COM-B model, I can systematically address each component that influences smoking behavior.
+Capability Component
+Many smokers lack the psychological capability to quit because they do not understand effective cessation strategies or manage withdrawal symptoms. The intervention will provide smoking cessation education programs that teach practical skills like stress management, trigger identification, and coping strategies (Michie et al., 2011). Community health centers will offer free counseling sessions where participants learn evidence-based techniques for overcoming nicotine addiction and developing healthy alternatives to smoking.
+Opportunity Component
+The physical and social environment often supports continued smoking through easy cigarette access and social smoking situations. The intervention will work with local businesses to reduce cigarette availability near colleges and create smoke-free outdoor spaces where young adults gather. Additionally, establishing smoke-free social activities and support groups provides alternative social opportunities that do not revolve around smoking (Ogden, 2019).
+Motivation Component
+Young adults often lack sufficient motivation to quit smoking because they do not perceive immediate health consequences. The intervention will use peer testimonials from young people who successfully quit smoking, highlighting immediate benefits like improved breathing, saved money, and better social relationships. Financial incentives, such as money saved from not buying cigarettes, will be tracked and celebrated to reinforce motivation for continued abstinence.
+Strategic Implementation: Mass Media Campaign Priority
+Among various strategies available, I would prioritize a targeted mass media campaign as the primary approach for this intervention. Mass media campaigns offer several advantages that align perfectly with the COM-B model's comprehensive approach (Ngigi & Busolo, 2018).
+First, mass media campaigns can simultaneously address all three COM-B components across large populations efficiently. Social media platforms, particularly Instagram and TikTok, reach young adults where they spend significant time and can deliver capability-building content through educational videos, opportunity-enhancing messages about smoke-free locations, and motivation-boosting success stories from peers.
+Second, mass media campaigns normalize non-smoking behavior by showing that many young adults choose not to smoke, which helps shift social norms and reduces the opportunity component that supports smoking. When young people see their peers rejecting cigarettes in media campaigns, it becomes easier for them to make similar choices in their own social situations.
+Third, the cost-effectiveness of mass media campaigns allows for sustained messaging over the six-month intervention period, which is essential for behavior change that requires repeated exposure and reinforcement. Unlike individual counseling or small group interventions, mass media reaches thousands of young adults simultaneously with consistent messaging that supports long-term behavior change (Ngigi & Busolo, 2018).
+The mass media campaign will integrate with other intervention components by directing viewers to local smoking cessation resources, promoting smoke-free events, and creating online communities where participants can share their quit-smoking journeys. This multi-channel approach ensures that the campaign provides practical support beyond awareness-raising, making it more likely to produce meaningful behavior change in the target population.
+Word Count: 624
 References
-
 Michie, S., Van Stralen, M. M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. Implementation science, 6, 42. https://doi.org/10.1186/1748-5908-6-42
-
 Ngigi, S., & Busolo, D. N. (2018). Behaviour change communication in health promotion: Appropriate practices and promising approaches. International Journal of Innovative Research and Development, 7(9), 84-93. https://doi.org/10.24940/ijird/2018/v7/i9/sep18027
-
 Ogden, J. (2019). The psychology of health and Illness: An open access source. McGraw Hill. The psychology of health and illness: An open access course [PDF], licensed under CC BY 4.0
-
 
