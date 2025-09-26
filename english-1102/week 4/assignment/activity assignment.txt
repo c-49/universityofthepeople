@@ -1,30 +1,27 @@
-This assignment will assess your knowledge and skills about:
+English 1102-01 Week 4 Activity Assignment
+Problem Statement
+Small businesses face significant challenges in developing effective social media marketing strategies that generate measurable revenue growth. Current research reveals a critical gap in understanding how resource-limited small businesses can implement coordinated multi-platform social media approaches within short timeframes to achieve sustainable revenue increases.
+Existing literature predominantly focuses on large corporations with substantial marketing budgets and dedicated social media teams, leaving small business owners without practical guidance for their unique circumstances (Weaver et al., 2016). As noted in academic research, "most studies examine individual platforms rather than integrated multi-platform strategies," creating a knowledge gap that prevents small businesses from maximizing their limited marketing resources (Ashman et al., 2021). Additionally, current studies typically measure success over extended periods, while small businesses require quicker returns on investment to maintain operations and justify marketing expenditures.
+The significance of addressing this problem extends beyond individual business success to broader economic impact. Small businesses represent a substantial portion of the economy, and their ability to effectively compete in digital markets directly affects local employment, community development, and economic stability (CFI Team, 2023). According to government data, small businesses increasingly rely on social media for customer acquisition, yet many lack the strategic framework needed to achieve measurable results (SBA, 2024). This research gap prevents potentially successful businesses from accessing evidence-based marketing strategies that could ensure their long-term viability.
+Furthermore, the rapid evolution of social media platforms creates an urgent need for current, practical research that addresses real-world implementation challenges facing small business owners. Without targeted research addressing their specific needs, these businesses continue to invest in social media marketing without clear guidance on strategy coordination, platform selection, or success measurement within their operational constraints.
+Research Objectives
+Objective 1: Analyze the relationship between coordinated multi-platform social media marketing strategies and short-term revenue growth in small businesses with limited marketing budgets.
+Objective 2: Evaluate specific implementation approaches that enable small businesses to effectively coordinate social media marketing across multiple platforms within six-month timeframes.
+Objective 3: Identify measurable success indicators and practical assessment methods that small business owners can use to track social media marketing effectiveness without extensive marketing expertise.
+Objective 4: Develop evidence-based recommendations for small businesses to optimize social media marketing resource allocation across different platforms to maximize revenue impact.
+These objectives align with SMART goals criteria by establishing specific, measurable outcomes within achievable timeframes that are relevant to small business operations (CFI Team, 2023). Each objective incorporates action words from Bloom's revised taxonomy, including "analyze," "evaluate," "identify," and "develop," which represent higher-order thinking skills appropriate for comprehensive research (Serdikoff, 2021).
+Research Questions
+Research Question 1: How does implementing coordinated social media marketing strategies across multiple platforms affect monthly revenue growth in small businesses compared to single-platform or uncoordinated approaches?
+Research Question 2: What specific implementation strategies enable small businesses to effectively coordinate social media marketing efforts across platforms while operating within limited budget and time constraints?
+Research Question 3: Which measurable indicators provide the most reliable assessment of social media marketing effectiveness for small business owners without advanced marketing training?
+Research Question 4: What evidence-based resource allocation strategies optimize social media marketing investments across different platforms to achieve maximum revenue impact for small businesses?
+Each research question directly corresponds to its respective objective and provides a clear framework for investigating specific aspects of the identified problem. These questions are designed to generate actionable insights that address the literature gaps while providing practical solutions for small business social media marketing challenges (National University, 2024). The questions focus on measurable outcomes and implementation strategies that can be empirically tested and validated through systematic research methods.
+Word Count: 567
+References
+Ashman, M., Cruthers, A., eCampusOntario, Ontario Business Faculty, & University of Minnesota. (2021). 10.9: Evaluating sources [Online]. In Advanced Professional Communications. Pressbooks. https://ecampusontario.pressbooks.pub/llsadvcomm/chapter/10-9-evaluating-sources/
+CFI Team. (2023, November 19). SMART goals. Corporate Finance Institute. https://corporatefinanceinstitute.com/resources/management/smart-goal/
+National University. (2024, October 30). Chapter 1: Problem Statement. Dissertation Center. https://resources.nu.edu/c.php?g=1006886&p=7294692
+Serdikoff, S. (2021). Research methods for the behavioral sciences (5th ed.) [PDF]. GALILEO Open Learning Materials. https://oer.galileo.usg.edu/psychology-textbooks/12/
+Weaver, R., Bost, L., Kassorla, M., McKinney-Holley, K., Crowther, K., Curtright, L., Gilbert, N., Hall, B., Ravita, T., & Swenson, K. (2016). Successful college composition (3rd ed.). GALILEO Open Learning Materials. https://oer.galileo.usg.edu/english-textbooks/8/
 
-Organizing and present a coherent narrative that integrates multiple perspectives.
-Refining research objectives and questions based on literature analysis.
 
-Assignment
-Based on literature review of the sources and identification of gap in the previous two units, craft a refined problem statement. The problem statement should identify a clear research gap and articulate the significance of addressing this gap.
-
-Next, draft well-defined research objectives and questions. Ensure they are aligned with the problem statement and demonstrate critical analysis of relevant literature.
-
-Recommended structure:
-Problem Statement:
-Describe the issue or gap in knowledge.
-Justify the importance of addressing this problem.
-Research Objectives:
-Define the overall goals of the research.
-These should be concise and directly address the problem statement.
-Research Questions:
-Frame specific inquiries that will help achieve the objectives.
-Ensure they are clear, focused, and answerable through research.
-Link each question to a specific objective.
-
-Submission Instructions
-Read the rubric on how your assignment will be graded.  
-Your assignment should be:
-At least 500 words and not more than 750 words (not including the reference list or the title).
-Double-spaced in Times New Roman font, which is no greater than 12 points.
-Support your arguments with sources and evidence.
-Use high-quality, credible, relevant sources to develop ideas appropriate for the discipline and genre of writing.  Explore additional details on the INFORMATION LITERACY page (located on the right-hand side of this page).
-Please consider using references and in-text citations from textbooks and any other sources used in this assignment from our library. You can contact the librarian at library@uopeople.edu if you need help. You can also ask the expert in the Learning Resource Center Course: Learning Resource Center.
