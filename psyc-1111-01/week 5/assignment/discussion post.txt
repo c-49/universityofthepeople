@@ -1,16 +1,18 @@
-Your instructor will grade you based on the Discussion Forum Unit 5 Rubric.
-This assignment aims to assess your ability to reflect on and consider your own experiences with stress and your understanding of coping strategies. It also assess your ability to suggest approaches to enhance resilience in challenging circumstances.
+COVID-19 Stress Experience and Coping Strategies
+The COVID-19 pandemic brought unprecedented stress into many lives, including my own. During the early months of 2020, my family faced health-related fears when my elderly grandmother developed respiratory symptoms. The uncertainty about whether she had contracted COVID-19, combined with limited hospital access due to restrictions, created intense anxiety for our entire family. We spent weeks navigating testing challenges, isolating from each other, and constantly monitoring her condition from a distance.
+Physical and Mental Health Effects
+The stress during this period manifested in both physical and mental symptoms. Physically, I experienced frequent headaches, disrupted sleep patterns, and persistent fatigue despite getting adequate rest. My appetite fluctuated between eating very little and stress-eating unhealthy foods. Mentally, the effects were even more pronounced. I felt constant worry and anxiety about my grandmother's health and the possibility of other family members becoming infected. These concerns created a state of hypervigilance where I checked news updates and family messages obsessively (Ogden, 2019). The isolation from loved ones and inability to provide direct care contributed to feelings of helplessness and occasional bouts of sadness.
+Coping Strategies Employed
+During this challenging time, I used multiple coping strategies to manage the stress. For problem-focused coping, I took direct action by researching COVID-19 symptoms and safety protocols, helping coordinate virtual doctor consultations for my grandmother, and organizing a delivery system for groceries and medications to minimize her exposure risk. These concrete actions gave me a sense of control in an uncertain situation.
+I also engaged in emotion-focused coping by maintaining daily video calls with family members to provide mutual emotional support. I started a journaling practice to process my feelings and practiced deep breathing exercises when anxiety became overwhelming. These strategies helped me manage the emotional weight of the situation even when I couldn't change the circumstances.
+Approach coping was evident in how I actively sought information from reliable health sources and maintained open communication with family members about our concerns and plans. Rather than avoiding the reality of the situation, I confronted it directly by staying informed and involved in caregiving decisions.
+However, I occasionally used avoidance coping when the stress became too intense. I would temporarily distract myself with entertainment or limit news consumption to prevent information overload. While this provided short-term relief, I recognized it wasn't a sustainable long-term strategy (Ogden, 2019).
+Approaches for Building Resilience
+Based on my experience, I would suggest two key approaches for enhancing coping skills and building resilience during challenging circumstances like chronic illness.
+First, develop a structured support network. Creating regular check-ins with family members, friends, or support groups provides both emotional validation and practical assistance. During chronic illness, having designated people who understand your situation and can offer help reduces the burden of managing everything alone. This network serves as a buffer against stress and provides multiple sources of strength.
+Second, practice adaptive flexibility in coping strategies. Rather than relying on a single coping method, individuals should cultivate a range of strategies they can draw upon depending on the situation. Some days may require problem-focused action, while others need emotion-focused care. Learning to recognize which approach fits the moment and being willing to adjust builds psychological flexibility. This adaptability prevents the rigidity that can worsen stress when circumstances change unexpectedly, which is common in both pandemics and chronic illness situations.
+These approaches emphasize both external resources through social connection and internal resources through flexible thinking, creating a comprehensive foundation for resilience in difficult times.
+Word Count: 612
 
-Assignment
-
-Stress tends to have a significant impact on our lives, both directly and indirectly. Consider the COVID 19 scenario to formulate the response.  One of the most noticeable outcomes during that period was a widespread increase in global stress levels. This stress was caused due to various factors, such as worries about getting infected, job insecurity, financial difficulties, adhering to pandemic-related restrictions, and so on.
-
-For this assignment activity, please reflect on a time during the COVID-19 pandemic when you encountered stress, either directly or indirectly (whether it was when you or someone in your family got infected, health-related fears, economic challenges, or social issues).
-
-In your reflection, kindly consider the following aspects:
-
-Provide a brief overview of what happened during that specific time in your life.
-Explain how stress affected your physical and mental health.
-Share the coping strategies you employed at that time to effectively manage your stress. Consider problem-focused coping, emotion-focused coping, approach coping, and avoidance coping in this context.
-End your discussion by suggesting two approaches for enhancing coping skills or building resilience among individuals, particularly during challenging circumstances like dealing with chronic illness.
-Your Discussion should be a minimum of 500 words in length and not more than 700 words. Please include a word count. Following the APA standard, use references and in-text citations for the textbook and any other sources. 
+References
+Ogden, J. (2019). The psychology of health and illness: An open access course. McGraw Hill.
